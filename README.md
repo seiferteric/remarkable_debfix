@@ -20,6 +20,7 @@ The process is like this:
 ## Building the Debian package:
 
     git clone https://github.com/seiferteric/remarkable_debfix.git
+    cd remarkable_debfix/
     dpkg-deb -Z xz -b old_deb remarkable_1.87_all.deb
     
 ## Download:
