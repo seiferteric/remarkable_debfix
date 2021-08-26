@@ -1,0 +1,12 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: remarkable
+Upstream-Contact: Jamie McGowan <jamiemcgowan.dev@gmail.com>
+Source: https://remarkableapp.github.io
+
+Files: *
+Copyright: (C) 2009 Florian Heinle
+Copyright: (C) 2009 Florian Heinle
+Copyright: (C) 2011 Jean-Philippe Fleury <contact@jpfleury.net>
+Copyright: (C) 2012 JazzCore
+Copyright: (C) 2016 <Jamie McGowan> <jamiemcgowan.dev@gmail.com>
+License: MIT
