@@ -28,4 +28,4 @@ Alternatively you can download the Debian I have built [here](https://eric.seife
 
 *SHA:*
 
-    ddea2f81f7b892a0a94250c468f864ab1a7664e8  remarkable_1.87_all.deb
+    c2c078d5a04b20ae8d89b7c40848894f946202ad  remarkable_1.87_all.deb
